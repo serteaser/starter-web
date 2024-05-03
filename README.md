@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Edit
 
 This is a sample edit text to be pushed into GitHub
+
+### Copy Rights
+
+<!-- SAMPLE COPYRIGHT -->
