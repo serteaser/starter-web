@@ -6,10 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-### Edits
+### Edit
 
 This is a sample edit text to be pushed into GitHub
-
-### More Edit
-
-asdfghjkl
